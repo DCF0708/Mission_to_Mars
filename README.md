@@ -18,6 +18,7 @@ Mission to Mars is a repository created to scrape up-to-date information from NA
 * Chrome Developer Tools
 * VSCode
 * GitBash
+* Bootstrap
 </br>
 </br>
 
@@ -33,5 +34,7 @@ This repository exemplifies the following skills:
 * Utilization of Python Libraries 
 * Version Control Through Git 
 * Understanding of Front End/Back End HTML 
+* Web Page Formatting (including Bootstrap)
+* Adjusting Web Pages for Use Across 
 
 ![](Mission_to_mars_webpage.png)
